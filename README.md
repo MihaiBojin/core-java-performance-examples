@@ -1,3 +1,16 @@
+# Quickstart
+
+```
+# build the container
+# it will be tagged with core-java-performance-examples:latest
+make
+
+# Example command
+docker run -it core-java-performance-examples \
+    java -Xss328k /code/trunk/src/test/java/com/google/code/java/core/threads/MaxThreadsMain.java
+```
+
+
 # code-java-performance-examples
 
 The original code ([code-java-performance-example](https://code.google.com/archive/p/core-java-performance-examples/source/default/source)), 
