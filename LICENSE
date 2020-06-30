@@ -2,6 +2,7 @@
 
 Applies to code found under /sandbox and /trunk:
 
+
 Copyright (c) 2011.  Peter Lawrey
 
 "THE BEER-WARE LICENSE" (Revision 128)
@@ -10,7 +11,8 @@ If we meet some day, and you think this stuff is worth it, you can buy me a beer
 There is no warranty.
 ------------------------------------------------
 
-Applies to code found under /docker:
+Applies to any other scripts, code, Makefiles, and Dockerfiles:
+
 
 This is free and unencumbered software released into the public domain.
 
